@@ -1,0 +1,21 @@
+* {
+
+}
+
+
+
+
+body{
+    background-color: ivory;
+    width: 100vw;
+    height: 200vh;
+    justify-content: center;
+    font-family: verdana;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   text-indent: 300px;
+    line-height: 1px;
+    font-size: large;
+}
+
