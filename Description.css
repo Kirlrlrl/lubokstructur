@@ -4,18 +4,18 @@
 
 
 
-
 body{
     background-color: ivory;
     width: 100vw;
-    height: 200vh;
+    height: 450vh;
     justify-content: center;
     font-family: verdana;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-   text-indent: 300px;
+   text-indent: 20px;
     line-height: 1px;
     font-size: large;
+    white-space: nowrap;
+    
+    
 }
-
