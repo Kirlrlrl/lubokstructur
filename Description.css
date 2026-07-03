@@ -1,11 +1,11 @@
 *{
 padding-top: 20px;
-padding-bottom: 20px;
 
 }
 
 p{
     line-height: 30px;
+    margin-bottom: 0px;
 }
 
 body{
@@ -15,7 +15,6 @@ body{
     font-family: verdana;
     display: flex;
     flex-direction: column;
-   text-indent: 20px;
     font-size: large;
     white-space: nowrap;
 
