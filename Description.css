@@ -4,7 +4,7 @@
 body{
     background-color: ivory;
     width: 100vw;
-    height: 500vh;
+    height: 400vh;
     justify-content: center;
     font-family: verdana;
     display: flex;
@@ -13,4 +13,5 @@ body{
     line-height: 1px;
     font-size: large;
     white-space: nowrap;
+
 }
