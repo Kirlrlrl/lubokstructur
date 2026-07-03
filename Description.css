@@ -1,5 +1,6 @@
 *{
-margin-top: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
 
 }
 
@@ -7,7 +8,7 @@ margin-top: 20px;
 body{
     background-color: ivory;
     width: 100vw;
-    height: 400vh;
+    height: 500vh;
     justify-content: center;
     font-family: verdana;
     display: flex;
