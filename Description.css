@@ -13,8 +13,11 @@ body{
     display: flex;
     flex-direction: column;
    text-indent: 20px;
-    line-height: 1px;
     font-size: large;
     white-space: nowrap;
 
+}
+
+p{
+    line-height: 1;
 }
